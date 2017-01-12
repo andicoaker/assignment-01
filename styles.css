@@ -1,0 +1,45 @@
+body {
+  font-family: 'helvetica neue';
+}
+
+.app-container {
+  border: 4px black solid;
+  margin-left: auto;
+  margin-right: auto;
+  width: 650px;
+  padding: 20px;
+}
+
+h1 {
+  font-style: italic;
+  margin-bottom: 0px;
+  font-weight: bold;
+}
+h2 {
+  color: #7d1717;
+  margin-top: 0px;
+}
+
+.section1 {
+  font-size: 21px;
+  width: 650px;
+
+}
+
+h3 {
+  font-weight: bold;
+}
+
+
+.section2 {
+  font-size: 14px;
+  width: 650px;
+}
+
+.section2 img {
+width: 150px;
+}
+
+.section3 img {
+  width: 100%;
+}
